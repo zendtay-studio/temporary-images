@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LanguageStyles">ar</string>
+    <string name="Device_language">الافتراضي للنظام</string>
+    <string name="Lema">شارك صورك بشكل مجهول، لفترة زمنية محدودة ومع أقصى درجات الأمان. هنا لا نترك أي أثر، فقط تشارك ما تريد، عندما تريد، دون قلق.</string>
+    <string name="Code">إدراج رمز</string>
+    <string name="Visualize">عرض</string>
+    <string name="Update_image">تحميل صورة</string>
+    <string name="Select_image_text">قم بتحميل صورك وحدد وقت الحذف. بمجرد انتهاء الوقت، سيتم حذفها تلقائيًا بأمان.</string>
+    <string name="Select_image">اختيار</string>
+    <string name="Terms_and_privacy_policy">باستخدام التطبيق، فإنك توافق على الشروط وسياسة الخصوصية.</string>
+    <string name="Terms">الشروط</string>
+    <string name="Privacy">سياسة الخصوصية</string>
+    <string name="Select_image_crop">اختيار صورة</string>
+    <string name="Select_other_image_crop">اختيار صورة أخرى</string>
+    <string name="Crop_and_update_image">قص وتحميل</string>
+    <string name="Update_image_crop">تحميل</string>
+    <string name="Delete_image_time">حذف خلال</string>
+    <string name="Corrupted_image">صورة تالفة</string>
+    <string name="Corrupted_image_text">الصورة تالفة ولا يمكن عرضها. يرجى محاولة تحميل صورة مختلفة أو التحقق من الصورة للتأكد من أنها ليست تالفة.</string>
+    <string name="Crop_image">قص الصورة</string>
+    <string name="Invalid_format_text">تنسيق الصورة غير صالح. يرجى التأكد من تحميل ملف بتنسيق مدعوم (JPG، PNG، BMP، GIF، TIFF، WEBP، HEIC) والمحاولة مرة أخرى.</string>
+    <string name="Ups">أوه! حدث خطأ ما</string>
+    <string name="Ups_text_update_image">حدث خطأ غير متوقع أثناء محاولة تحميل صورتك. يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.</string>
+    <string name="Delete_image_time_text">حذف خلال 10 دقائق.</string>
+    <string name="Okey">حسنًا</string>
+    <string name="Copy_code">نسخ الرمز</string>
+    <string name="Copied_code">تم نسخ الرمز!</string>
+    <string name="Ups_text">يبدو أن خطأ غير متوقع حدث. نعتذر عن الإزعاج. إذا استمر المشكلة، يرجى الإبلاغ عن الخطأ حتى نتمكن من حلها في أقرب وقت ممكن. شكرًا لتفهمك!</string>
+    <string name="Send_info">إرسال المعلومات</string>
+    <string name="Report">الإبلاغ</string>
+    <string name="Language">اللغة</string>
+    <string name="Cancel">إلغاء</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LanguageStyles">pt</string>
+    <string name="Device_language">Padrão do sistema</string>
+    <string name="Lema">Compartilhe suas imagens de forma anônima, por um tempo limitado e com máxima segurança. Aqui não deixamos rastros, você compartilha o que quiser, quando quiser, sem preocupações.</string>
+    <string name="Code">Inserir código</string>
+    <string name="Visualize">Visualizar</string>
+    <string name="Update_image">Enviar imagem</string>
+    <string name="Select_image_text">Envie suas imagens e defina um limite de tempo. Depois do prazo, elas serão deletadas automaticamente de forma segura.</string>
+    <string name="Select_image">Selecionar</string>
+    <string name="Terms_and_privacy_policy">Ao utilizar o aplicativo, você aceita os Termos e a Política de Privacidade.</string>
+    <string name="Terms">Termos</string>
+    <string name="Privacy">Política de Privacidade</string>
+    <string name="Select_image_crop">Selecionar imagem</string>
+    <string name="Select_other_image_crop">Selecionar outra imagem</string>
+    <string name="Crop_and_update_image">Cortar e enviar</string>
+    <string name="Update_image_crop">Enviar</string>
+    <string name="Delete_image_time">Deletar dentro de</string>
+    <string name="Corrupted_image">Imagem corrompida</string>
+    <string name="Corrupted_image_text">A imagem está corrompida e não pode ser exibida. Tente carregar uma imagem diferente ou verifique a imagem para garantir que ela não esteja danificada.</string>
+    <string name="Crop_image">Cortar imagem</string>
+    <string name="Invalid_format_text">O formato da imagem é inválido. Certifique-se de carregar um arquivo em um dos formatos compatíveis (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) e tente novamente.</string>
+    <string name="Ups">Ops! Algo deu errado</string>
+    <string name="Ups_text_update_image">Ocorreu um erro inesperado ao tentar enviar sua imagem. Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="Delete_image_time_text">Deletar em 10 min.</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Copiar código</string>
+    <string name="Copied_code">Código copiado!</string>
+    <string name="Ups_text">Parece que ocorreu um erro inesperado. Pedimos desculpas pelo inconveniente. Se o problema persistir, por favor, reporte o erro para que possamos resolvê-lo o mais rápido possível. Agradecemos sua compreensão!</string>
+    <string name="Send_info">Enviar informações</string>
+    <string name="Report">Reportar</string>
+    <string name="Language">Idioma</string>
+    <string name="Cancel">Cancelar</string>
+</resources>
