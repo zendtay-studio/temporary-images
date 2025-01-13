@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">da</string>
+    <string name="Device_language">Systemstandard sprog</string>
+    <string name="Lema">Del dine billeder anonymt, i en begrænset tid, og med maksimal sikkerhed. Her efterlader vi ikke spor, du deler kun det, du ønsker, når du ønsker, uden bekymringer.</string>
+    <string name="Code">Indsæt kode</string>
+    <string name="Visualize">Visualiser</string>
+    <string name="Update_image">Upload billede</string>
+    <string name="Select_image_text">Upload dine billeder og angiv en tidsgrænse. Når denne tidsramme er udløbet, vil de blive slettet automatisk og sikkert.</string>
+    <string name="Select_image">Vælg billede</string>
+    <string name="Terms_and_privacy_policy">Ved at bruge appen accepterer du vores vilkår og privatlivspolitik.</string>
+    <string name="Terms">Vilkår</string>
+    <string name="Privacy">Privatlivspolitik</string>
+    <string name="Select_image_crop">Vælg billede</string>
+    <string name="Select_other_image_crop">Vælg et andet billede</string>
+    <string name="Crop_and_update_image">Beskær og upload</string>
+    <string name="Update_image_crop">Upload</string>
+    <string name="Delete_image_time">Slet om</string>
+    <string name="Corrupted_image">Ødelagt billede</string>
+    <string name="Corrupted_image_text">Billedet er ødelagt og kan ikke vises. Prøv at uploade et andet billede eller kontroller billedet for at sikre, at det ikke er beskadiget.</string>
+    <string name="Crop_image">Beskær billede</string>
+    <string name="Invalid_format">Ugyldigt format</string>
+    <string name="Invalid_format_text">Billedformatet er ugyldigt. Sørg for, at du uploader en fil i et understøttet format (JPG, PNG, BMP, GIF, TIFF, WEBP og HEIC) og prøv igen.</string>
+    <string name="Ups">Ups! Noget gik galt</string>
+    <string name="Ups_text_update_image">Der opstod en uventet fejl under forsøget på at uploade dit billede. Kontroller din internetforbindelse, og prøv igen.</string>
+    <string name="Delete_image_time_text">Slet om 10 minutter</string>
+    <string name="Okey">Okay</string>
+    <string name="Copy_code">Kopier kode</string>
+    <string name="Copied_code">Koden er kopieret!</string>
+    <string name="Ups_text">Det ser ud til, at der opstod en uventet fejl. Vi undskylder for ulejligheden. Hvis problemet fortsætter, bedes du rapportere fejlen, så vi kan løse det så hurtigt som muligt. Tak for din forståelse!</string>
+    <string name="Send_info">Send info</string>
+    <string name="Report">Rapporter</string>
+    <string name="Language">Sprog</string>
+    <string name="Cancel">Annuller</string>
+    <string name="Ups_splash">Det ser ud til, at du ikke er forbundet til internettet. Tjek dit netværk, og prøv igen.</string>
+</resources>

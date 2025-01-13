@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">vi</string>
+    <string name="Device_language">Ngôn ngữ hệ thống mặc định</string>
+    <string name="Lema">Chia sẻ hình ảnh của bạn một cách ẩn danh, trong một khoảng thời gian giới hạn và với mức độ bảo mật cao nhất. Chúng tôi không để lại dấu vết, bạn chỉ chia sẻ những gì bạn muốn, khi nào bạn muốn, mà không phải lo lắng.</string>
+    <string name="Code">Chèn mã</string>
+    <string name="Visualize">Xem trước</string>
+    <string name="Update_image">Tải ảnh lên</string>
+    <string name="Select_image_text">Tải ảnh của bạn lên và thiết lập thời gian giới hạn. Sau khi hết thời gian, ảnh sẽ được xóa tự động và an toàn.</string>
+    <string name="Select_image">Chọn ảnh</string>
+    <string name="Terms_and_privacy_policy">Khi sử dụng ứng dụng, bạn đồng ý với Điều khoản và Chính sách bảo mật.</string>
+    <string name="Terms">Điều khoản</string>
+    <string name="Privacy">Chính sách bảo mật</string>
+    <string name="Select_image_crop">Chọn ảnh</string>
+    <string name="Select_other_image_crop">Chọn ảnh khác</string>
+    <string name="Crop_and_update_image">Cắt và tải lên</string>
+    <string name="Update_image_crop">Tải lên</string>
+    <string name="Delete_image_time">Xóa sau</string>
+    <string name="Corrupted_image">Ảnh hỏng</string>
+    <string name="Corrupted_image_text">Ảnh bị hỏng và không thể hiển thị. Vui lòng thử tải một ảnh khác hoặc kiểm tra ảnh để đảm bảo nó không bị hỏng.</string>
+    <string name="Crop_image">Cắt ảnh</string>
+    <string name="Invalid_format">Định dạng không hợp lệ</string>
+    <string name="Invalid_format_text">Định dạng ảnh không hợp lệ. Vui lòng đảm bảo rằng bạn tải lên một tệp với một trong các định dạng được hỗ trợ (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) và thử lại.</string>
+    <string name="Ups">Ôi! Có sự cố xảy ra</string>
+    <string name="Ups_text_update_image">Đã xảy ra lỗi không mong muốn khi cố gắng tải lên ảnh của bạn. Vui lòng kiểm tra kết nối internet của bạn và thử lại.</string>
+    <string name="Delete_image_time_text">Xóa sau 10 phút</string>
+    <string name="Okey">OK</string>
+    <string name="Copy_code">Sao chép mã</string>
+    <string name="Copied_code">Đã sao chép mã!</string>
+    <string name="Ups_text">Có vẻ như đã xảy ra một lỗi không mong muốn. Chúng tôi xin lỗi về sự bất tiện này. Nếu vấn đề vẫn tiếp diễn, vui lòng báo cáo lỗi để chúng tôi có thể sửa chữa nhanh chóng. Cảm ơn bạn đã thông cảm!</string>
+    <string name="Send_info">Gửi thông tin</string>
+    <string name="Report">Báo cáo</string>
+    <string name="Language">Ngôn ngữ</string>
+    <string name="Cancel">Hủy bỏ</string>
+    <string name="Ups_splash">Có vẻ như bạn không có kết nối internet. Vui lòng kiểm tra cài đặt mạng của bạn và thử lại.</string>
+</resources>
