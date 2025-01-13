@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">de</string>
+    <string name="Device_language">Systemstandard</string>
+    <string name="Lema">Teilen Sie Ihre Bilder anonym, für eine begrenzte Zeit und mit maximaler Sicherheit. Wir hinterlassen hier keine Spuren; Sie teilen nur, was Sie möchten, wann Sie möchten, ohne Bedenken.</string>
+    <string name="Code">Code einfügen</string>
+    <string name="Visualize">Visualisieren</string>
+    <string name="Update_image">Bild hochladen</string>
+    <string name="Select_image_text">Laden Sie Ihre Bilder hoch und legen Sie ein Zeitlimit fest. Nach Ablauf der Frist werden sie automatisch sicher gelöscht.</string>
+    <string name="Select_image">Auswählen</string>
+    <string name="Terms_and_privacy_policy">Durch die Nutzung der App stimmen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie zu.</string>
+    <string name="Terms">Nutzungsbedingungen</string>
+    <string name="Privacy">Datenschutzrichtlinie</string>
+    <string name="Select_image_crop">Bild auswählen</string>
+    <string name="Select_other_image_crop">Anderes Bild auswählen</string>
+    <string name="Crop_and_update_image">Zuschneiden und hochladen</string>
+    <string name="Update_image_crop">Hochladen</string>
+    <string name="Delete_image_time">Löschen in</string>
+    <string name="Corrupted_image">Beschädigtes Bild</string>
+    <string name="Corrupted_image_text">Das Bild ist beschädigt und kann nicht angezeigt werden. Bitte versuchen Sie, ein anderes Bild hochzuladen, oder überprüfen Sie das Bild, um sicherzustellen, dass es nicht defekt ist.</string>
+    <string name="Crop_image">Bild zuschneiden</string>
+    <string name="Invalid_format">Ungültiges Format</string>
+    <string name="Invalid_format_text">Das Bildformat ist ungültig. Stellen Sie bitte sicher, dass Sie eine Datei in einem der unterstützten Formate (JPG, PNG, BMP, GIF, TIFF, WEBP und HEIC) hochladen, und versuchen Sie es erneut.</string>
+    <string name="Ups">Ups! Etwas ist schiefgelaufen</string>
+    <string name="Ups_text_update_image">Beim Hochladen Ihres Bildes ist ein unerwarteter Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
+    <string name="Delete_image_time_text">Löschen in 10 Min.</string>
+    <string name="Okey">Okay</string>
+    <string name="Copy_code">Code kopieren</string>
+    <string name="Copied_code">Code kopiert!</string>
+    <string name="Ups_text">Es scheint, dass ein unerwarteter Fehler aufgetreten ist. Wir entschuldigen uns für die Unannehmlichkeiten. Sollte das Problem weiterhin bestehen, melden Sie bitte den Fehler, damit wir ihn so schnell wie möglich beheben können. Vielen Dank für Ihr Verständnis!</string>
+    <string name="Send_info">Info senden</string>
+    <string name="Report">Melden</string>
+    <string name="Language">Sprache</string>
+    <string name="Cancel">Abbrechen</string>
+    <string name="Ups_splash">Es scheint, dass Sie keine Internetverbindung haben. Überprüfen Sie Ihr Netzwerk und versuchen Sie es erneut.</string>
+</resources>

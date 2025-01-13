@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">tr</string>
+    <string name="Device_language">Sistem varsayılanı</string>
+    <string name="Lema">Görüntülerinizi anonim olarak, sınırlı bir süre için ve maksimum güvenlik ile paylaşın. Burada iz bırakılmaz, yalnızca istediğiniz zaman istediğinizi paylaşın, endişelenmeden.</string>
+    <string name="Code">Kodu girin</string>
+    <string name="Visualize">Görüntüle</string>
+    <string name="Update_image">Görsel yükle</string>
+    <string name="Select_image_text">Görsellerinizi yükleyin ve bir zaman sınırı belirleyin. Süre dolduğunda, otomatik olarak güvenli bir şekilde silinirler.</string>
+    <string name="Select_image">Seç</string>
+    <string name="Terms_and_privacy_policy">Uygulamayı kullanarak Şartlar ve Gizlilik Politikası’nı kabul etmiş olursunuz.</string>
+    <string name="Terms">Şartlar</string>
+    <string name="Privacy">Gizlilik Politikası</string>
+    <string name="Select_image_crop">Görsel seçin</string>
+    <string name="Select_other_image_crop">Başka bir görsel seçin</string>
+    <string name="Crop_and_update_image">Kırp ve yükle</string>
+    <string name="Update_image_crop">Yükle</string>
+    <string name="Delete_image_time">Silinecek süre</string>
+    <string name="Corrupted_image">Bozuk görsel</string>
+    <string name="Corrupted_image_text">Görsel bozuk ve gösterilemiyor. Başka bir görsel yüklemeyi deneyin ya da görselin hasarlı olmadığından emin olun.</string>
+    <string name="Crop_image">Görseli kırp</string>
+    <string name="Invalid_format">Geçersiz format</string>
+    <string name="Invalid_format_text">Görsel formatı geçersiz. Desteklenen formatlardan birinde bir dosya yüklediğinizden emin olun (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) ve tekrar deneyin.</string>
+    <string name="Ups">Hata! Bir şeyler ters gitti</string>
+    <string name="Ups_text_update_image">Görsel yüklenirken beklenmedik bir hata oluştu. İnternet bağlantınızı kontrol edip tekrar deneyin.</string>
+    <string name="Delete_image_time_text">10 dakika içinde silinecek.</string>
+    <string name="Okey">Tamam</string>
+    <string name="Copy_code">Kodu kopyala</string>
+    <string name="Copied_code">Kod kopyalandı!</string>
+    <string name="Ups_text">Görünüşe göre beklenmedik bir hata oluştu. Rahatsızlık için üzgünüz. Sorun devam ederse hatayı bildirerek hızlı bir şekilde düzeltmemize yardımcı olun. Anlayışınız için teşekkürler!</string>
+    <string name="Send_info">Bilgi gönder</string>
+    <string name="Report">Bildirim yap</string>
+    <string name="Language">Dil</string>
+    <string name="Cancel">İptal</string>
+    <string name="Ups_splash">İnternet bağlantınız yok gibi görünüyor. Ağı kontrol edip tekrar deneyin.</string>
+</resources>

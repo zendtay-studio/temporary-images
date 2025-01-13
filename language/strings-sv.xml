@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">sv</string>
+    <string name="Device_language">Systemets standard</string>
+    <string name="Lema">Dela dina bilder anonymt, under en begränsad tid och med maximal säkerhet. Här lämnar vi inga spår, dela bara det du vill, när du vill, utan bekymmer.</string>
+    <string name="Code">Ange kod</string>
+    <string name="Visualize">Visa</string>
+    <string name="Update_image">Ladda upp bild</string>
+    <string name="Select_image_text">Ladda upp dina bilder och sätt en tidsgräns. När tiden löper ut raderas de säkert och automatiskt.</string>
+    <string name="Select_image">Välj</string>
+    <string name="Terms_and_privacy_policy">Genom att använda appen godkänner du våra användarvillkor och integritetspolicy.</string>
+    <string name="Terms">Villkor</string>
+    <string name="Privacy">Integritetspolicy</string>
+    <string name="Select_image_crop">Välj bild</string>
+    <string name="Select_other_image_crop">Välj en annan bild</string>
+    <string name="Crop_and_update_image">Beskär och ladda upp</string>
+    <string name="Update_image_crop">Ladda upp</string>
+    <string name="Delete_image_time">Radera om</string>
+    <string name="Corrupted_image">Skadad bild</string>
+    <string name="Corrupted_image_text">Bilden är skadad och kan inte visas. Försök att ladda upp en annan bild eller kontrollera om bilden är skadad.</string>
+    <string name="Crop_image">Beskär bild</string>
+    <string name="Invalid_format">Ogiltigt format</string>
+    <string name="Invalid_format_text">Bildformatet är ogiltigt. Kontrollera att du laddar upp en fil i något av de stödda formaten (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) och försök igen.</string>
+    <string name="Ups">Oj! Något gick fel</string>
+    <string name="Ups_text_update_image">Ett oväntat fel uppstod när din bild laddades upp. Kontrollera din internetanslutning och försök igen.</string>
+    <string name="Delete_image_time_text">Raderas om 10 minuter.</string>
+    <string name="Okey">Okej</string>
+    <string name="Copy_code">Kopiera kod</string>
+    <string name="Copied_code">Koden har kopierats!</string>
+    <string name="Ups_text">Ett oväntat fel har inträffat. Vi ber om ursäkt för besväret. Om problemet kvarstår, rapportera det så att vi kan åtgärda det snarast möjligt. Tack för din förståelse!</string>
+    <string name="Send_info">Skicka information</string>
+    <string name="Report">Rapportera</string>
+    <string name="Language">Språk</string>
+    <string name="Cancel">Avbryt</string>
+    <string name="Ups_splash">Det verkar som att du inte har någon internetanslutning. Kontrollera ditt nätverk och försök igen.</string>
+</resources>

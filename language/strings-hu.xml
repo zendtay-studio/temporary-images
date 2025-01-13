@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">hu</string>
+    <string name="Device_language">Alapértelmezett rendszer nyelve</string>
+    <string name="Lema">Oszd meg képeidet névtelenül, korlátozott időre, a legnagyobb biztonság mellett. Itt nincs nyom, csak azt osztod meg, amit akarsz, amikor akarsz, aggódás nélkül.</string>
+    <string name="Code">Kód beillesztése</string>
+    <string name="Visualize">Megtekintés</string>
+    <string name="Update_image">Kép feltöltése</string>
+    <string name="Select_image_text">Töltsd fel képeidet és állíts be időkorlátot. Miután letelt az idő, a képek automatikusan törlődnek biztonságosan.</string>
+    <string name="Select_image">Kép kiválasztása</string>
+    <string name="Terms_and_privacy_policy">Az alkalmazás használatával elfogadod a Használati feltételeket és az Adatvédelmi szabályzatot.</string>
+    <string name="Terms">Feltételek</string>
+    <string name="Privacy">Adatvédelmi szabályzat</string>
+    <string name="Select_image_crop">Kép kiválasztása</string>
+    <string name="Select_other_image_crop">Másik kép kiválasztása</string>
+    <string name="Crop_and_update_image">Kép vágása és feltöltése</string>
+    <string name="Update_image_crop">Feltöltés</string>
+    <string name="Delete_image_time">Törlés után</string>
+    <string name="Corrupted_image">Sérült kép</string>
+    <string name="Corrupted_image_text">A kép sérült és nem jeleníthető meg. Kérjük, próbálj meg másik képet feltölteni, vagy ellenőrizd a képet, hogy biztos legyél benne, hogy nem sérült.</string>
+    <string name="Crop_image">Kép vágása</string>
+    <string name="Invalid_format">Érvénytelen formátum</string>
+    <string name="Invalid_format_text">A kép formátuma érvénytelen. Kérjük, győződj meg arról, hogy támogatott formátumban (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) töltötted fel a fájlt, majd próbáld újra.</string>
+    <string name="Ups">Ó, valami hiba történt</string>
+    <string name="Ups_text_update_image">Váratlan hiba történt a kép feltöltése közben. Kérjük, ellenőrizd az internetkapcsolatodat, és próbáld újra.</string>
+    <string name="Delete_image_time_text">Törlés 10 percen belül</string>
+    <string name="Okey">Rendben</string>
+    <string name="Copy_code">Kód másolása</string>
+    <string name="Copied_code">A kód másolva!</string>
+    <string name="Ups_text">Úgy tűnik, váratlan hiba történt. Elnézést kérünk az okozott kényelmetlenségért. Ha a probléma továbbra is fennáll, kérjük, jelentsd a hibát, hogy minél előbb javíthassuk. Köszönjük a megértésedet!</string>
+    <string name="Send_info">Információ küldése</string>
+    <string name="Report">Jelentés</string>
+    <string name="Language">Nyelv</string>
+    <string name="Cancel">Mégse</string>
+    <string name="Ups_splash">Úgy tűnik, nincs internetkapcsolatod. Kérjük, ellenőrizd a hálózatodat, és próbáld újra.</string>
+</resources>

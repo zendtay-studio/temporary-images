@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">nl</string>
+    <string name="Device_language">Systeemstandaard</string>
+    <string name="Lema">Deel je afbeeldingen anoniem, voor een beperkte tijd en met maximale beveiliging. We laten hier geen sporen achter, je deelt alleen wat je wilt, wanneer je wilt, zonder zorgen.</string>
+    <string name="Code">Code invoeren</string>
+    <string name="Visualize">Visualiseren</string>
+    <string name="Update_image">Afbeelding uploaden</string>
+    <string name="Select_image_text">Upload je afbeeldingen en stel een tijdslimiet in. Zodra de tijd verstreken is, worden ze veilig automatisch verwijderd.</string>
+    <string name="Select_image">Selecteer</string>
+    <string name="Terms_and_privacy_policy">Door de app te gebruiken, ga je akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
+    <string name="Terms">Voorwaarden</string>
+    <string name="Privacy">Privacybeleid</string>
+    <string name="Select_image_crop">Afbeelding selecteren</string>
+    <string name="Select_other_image_crop">Andere afbeelding selecteren</string>
+    <string name="Crop_and_update_image">Bijsnijden en uploaden</string>
+    <string name="Update_image_crop">Uploaden</string>
+    <string name="Delete_image_time">Verwijderen over</string>
+    <string name="Corrupted_image">Beschadigde afbeelding</string>
+    <string name="Corrupted_image_text">De afbeelding is beschadigd en kan niet worden weergegeven. Probeer een andere afbeelding te uploaden of controleer of de afbeelding niet beschadigd is.</string>
+    <string name="Crop_image">Afbeelding bijsnijden</string>
+    <string name="Invalid_format">Ongeldig formaat</string>
+    <string name="Invalid_format_text">Het afbeeldingsformaat is ongeldig. Zorg ervoor dat je een bestand uploadt in een van de ondersteunde formaten (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) en probeer het opnieuw.</string>
+    <string name="Ups">Oeps! Er ging iets mis</string>
+    <string name="Ups_text_update_image">Er is een onverwachte fout opgetreden bij het uploaden van je afbeelding. Controleer je internetverbinding en probeer het opnieuw.</string>
+    <string name="Delete_image_time_text">Verwijderen over 10 minuten.</string>
+    <string name="Okey">Oké</string>
+    <string name="Copy_code">Code kopiëren</string>
+    <string name="Copied_code">Code gekopieerd!</string>
+    <string name="Ups_text">Er lijkt een onverwachte fout te zijn opgetreden. Onze excuses voor het ongemak. Als het probleem aanhoudt, meld het dan zodat we het zo snel mogelijk kunnen oplossen. Bedankt voor je begrip!</string>
+    <string name="Send_info">Info verzenden</string>
+    <string name="Report">Rapporteren</string>
+    <string name="Language">Taal</string>
+    <string name="Cancel">Annuleren</string>
+    <string name="Ups_splash">Het lijkt erop dat je geen internetverbinding hebt. Controleer je netwerk en probeer het opnieuw.</string>
+</resources>

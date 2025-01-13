@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">cs</string>
+    <string name="Device_language">Výchozí systémový jazyk</string>
+    <string name="Lema">Sdílejte své obrázky anonymně, na omezenou dobu a s maximální bezpečností. Nezanecháváme žádné stopy, sdílíte jen to, co chcete, kdy chcete, bez obav.</string>
+    <string name="Code">Vložte kód</string>
+    <string name="Visualize">Zobrazit</string>
+    <string name="Update_image">Nahrát obrázek</string>
+    <string name="Select_image_text">Nahrajte své obrázky a nastavte časový limit. Jakmile vyprší čas, budou automaticky bezpečně smazány.</string>
+    <string name="Select_image">Vybrat</string>
+    <string name="Terms_and_privacy_policy">Používáním aplikace souhlasíte s podmínkami a zásadami ochrany osobních údajů.</string>
+    <string name="Terms">Podmínky</string>
+    <string name="Privacy">Zásady ochrany osobních údajů</string>
+    <string name="Select_image_crop">Vybrat obrázek</string>
+    <string name="Select_other_image_crop">Vybrat jiný obrázek</string>
+    <string name="Crop_and_update_image">Oříznout a nahrát</string>
+    <string name="Update_image_crop">Nahrát</string>
+    <string name="Delete_image_time">Smazat za</string>
+    <string name="Corrupted_image">Poškozený obrázek</string>
+    <string name="Corrupted_image_text">Obrázek je poškozený a nelze jej zobrazit. Zkuste nahrát jiný obrázek nebo zkontrolujte, zda není poškozený.</string>
+    <string name="Crop_image">Oříznout obrázek</string>
+    <string name="Invalid_format">Neplatný formát</string>
+    <string name="Invalid_format_text">Formát obrázku je neplatný. Ujistěte se, že nahráváte soubor ve formátu JPG, PNG, BMP, GIF, TIFF, WEBP nebo HEIC a zkuste to znovu.</string>
+    <string name="Ups">Ups! Něco se pokazilo</string>
+    <string name="Ups_text_update_image">Při pokusu o nahrání vašeho obrázku došlo k neočekávané chybě. Zkontrolujte své internetové připojení a zkuste to znovu.</string>
+    <string name="Delete_image_time_text">Smazat za 10 minut.</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Kopírovat kód</string>
+    <string name="Copied_code">Kód zkopírován!</string>
+    <string name="Ups_text">Zdá se, že došlo k neočekávané chybě. Omlouváme se za způsobené nepříjemnosti. Pokud problém přetrvává, prosím nahlaste chybu, abychom ji co nejdříve opravili. Děkujeme za pochopení!</string>
+    <string name="Send_info">Odeslat informace</string>
+    <string name="Report">Nahlásit</string>
+    <string name="Language">Jazyk</string>
+    <string name="Cancel">Zrušit</string>
+    <string name="Ups_splash">Zdá se, že nemáte připojení k internetu. Zkontrolujte své síťové připojení a zkuste to znovu.</string>
+</resources>

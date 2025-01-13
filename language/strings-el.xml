@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">el</string>
+    <string name="Device_language">Προεπιλογή συστήματος</string>
+    <string name="Lema">Μοιραστείτε τις εικόνες σας ανώνυμα, για περιορισμένο χρόνο και με τη μέγιστη ασφάλεια. Εδώ δεν αφήνουμε ίχνη, μοιραστείτε μόνο ό,τι θέλετε, όποτε το θέλετε, χωρίς ανησυχίες.</string>
+    <string name="Code">Εισαγωγή κωδικού</string>
+    <string name="Visualize">Προβολή</string>
+    <string name="Update_image">Μεταφόρτωση εικόνας</string>
+    <string name="Select_image_text">Ανεβάστε τις εικόνες σας και ορίστε μια χρονική προθεσμία. Μόλις λήξει η προθεσμία, θα διαγραφούν αυτόματα με ασφάλεια.</string>
+    <string name="Select_image">Επιλογή</string>
+    <string name="Terms_and_privacy_policy">Χρησιμοποιώντας την εφαρμογή, αποδέχεστε τους Όρους και την Πολιτική Απορρήτου.</string>
+    <string name="Terms">Όροι</string>
+    <string name="Privacy">Πολιτική Απορρήτου</string>
+    <string name="Select_image_crop">Επιλογή εικόνας</string>
+    <string name="Select_other_image_crop">Επιλογή άλλης εικόνας</string>
+    <string name="Crop_and_update_image">Περικοπή και μεταφόρτωση</string>
+    <string name="Update_image_crop">Μεταφόρτωση</string>
+    <string name="Delete_image_time">Διαγραφή σε</string>
+    <string name="Corrupted_image">Κατεστραμμένη εικόνα</string>
+    <string name="Corrupted_image_text">Η εικόνα είναι κατεστραμμένη και δεν μπορεί να εμφανιστεί. Δοκιμάστε να ανεβάσετε μια διαφορετική εικόνα ή ελέγξτε αν η εικόνα είναι κατεστραμμένη.</string>
+    <string name="Crop_image">Περικοπή εικόνας</string>
+    <string name="Invalid_format">Μη έγκυρη μορφή</string>
+    <string name="Invalid_format_text">Η μορφή της εικόνας δεν είναι έγκυρη. Βεβαιωθείτε ότι ανεβάζετε ένα αρχείο σε μία από τις υποστηριζόμενες μορφές (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) και δοκιμάστε ξανά.</string>
+    <string name="Ups">Ωχ! Κάτι πήγε στραβά</string>
+    <string name="Ups_text_update_image">Παρουσιάστηκε απρόσμενο σφάλμα κατά την προσπάθεια μεταφόρτωσης της εικόνας σας. Ελέγξτε τη σύνδεση στο διαδίκτυο και δοκιμάστε ξανά.</string>
+    <string name="Delete_image_time_text">Διαγραφή σε 10 λεπτά.</string>
+    <string name="Okey">Εντάξει</string>
+    <string name="Copy_code">Αντιγραφή κωδικού</string>
+    <string name="Copied_code">Ο κωδικός αντιγράφηκε!</string>
+    <string name="Ups_text">Φαίνεται ότι προέκυψε ένα απρόσμενο σφάλμα. Ζητούμε συγγνώμη για την ταλαιπωρία. Αν το πρόβλημα επιμείνει, αναφέρετε το σφάλμα ώστε να το διορθώσουμε το συντομότερο δυνατό. Ευχαριστούμε για την κατανόηση!</string>
+    <string name="Send_info">Αποστολή πληροφοριών</string>
+    <string name="Report">Αναφορά</string>
+    <string name="Language">Γλώσσα</string>
+    <string name="Cancel">Ακύρωση</string>
+    <string name="Ups_splash">Φαίνεται ότι δεν έχετε σύνδεση στο διαδίκτυο. Ελέγξτε το δίκτυό σας και δοκιμάστε ξανά.</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">fi</string>
+    <string name="Device_language">Järjestelmän oletus</string>
+    <string name="Lema">Jaa kuvasi anonyymisti, rajoitetun ajan ja maksimaalisella turvallisuudella. Emme jätä jälkiä, jaat vain mitä haluat, milloin haluat, ilman huolia.</string>
+    <string name="Code">Syötä koodi</string>
+    <string name="Visualize">Näytä</string>
+    <string name="Update_image">Lataa kuva</string>
+    <string name="Select_image_text">Lataa kuvasi ja aseta aikaraja. Kun aika on kulunut umpeen, ne poistetaan automaattisesti turvallisesti.</string>
+    <string name="Select_image">Valitse</string>
+    <string name="Terms_and_privacy_policy">Käyttämällä sovellusta hyväksyt käyttöehdot ja tietosuojakäytännön.</string>
+    <string name="Terms">Ehdot</string>
+    <string name="Privacy">Tietosuojakäytäntö</string>
+    <string name="Select_image_crop">Valitse kuva</string>
+    <string name="Select_other_image_crop">Valitse toinen kuva</string>
+    <string name="Crop_and_update_image">Rajaa ja lataa</string>
+    <string name="Update_image_crop">Lataa</string>
+    <string name="Delete_image_time">Poistetaan</string>
+    <string name="Corrupted_image">Viallinen kuva</string>
+    <string name="Corrupted_image_text">Kuva on vioittunut eikä sitä voida näyttää. Yritä ladata toinen kuva tai tarkista, ettei kuva ole vahingoittunut.</string>
+    <string name="Crop_image">Rajaa kuva</string>
+    <string name="Invalid_format">Virheellinen formaatti</string>
+    <string name="Invalid_format_text">Kuvan formaatti on virheellinen. Varmista, että lataat tiedoston tuetuissa formaateissa (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) ja yritä uudelleen.</string>
+    <string name="Ups">Hups! Jokin meni pieleen</string>
+    <string name="Ups_text_update_image">Tapahtui odottamaton virhe, kun kuvaasi yritettiin ladata. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+    <string name="Delete_image_time_text">Poistetaan 10 minuutin kuluttua.</string>
+    <string name="Okey">Okei</string>
+    <string name="Copy_code">Kopioi koodi</string>
+    <string name="Copied_code">Koodi kopioitu!</string>
+    <string name="Ups_text">Näyttää siltä, että tapahtui odottamaton virhe. Pahoittelemme aiheutunutta haittaa. Jos ongelma jatkuu, ilmoita virheestä, jotta voimme korjata sen mahdollisimman pian. Kiitos ymmärryksestäsi!</string>
+    <string name="Send_info">Lähetä tiedot</string>
+    <string name="Report">Ilmoita</string>
+    <string name="Language">Kieli</string>
+    <string name="Cancel">Peruuta</string>
+    <string name="Ups_splash">Näyttää siltä, ettei sinulla ole internet-yhteyttä. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+</resources>

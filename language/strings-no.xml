@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">no</string>
+    <string name="Device_language">Systemstandard</string>
+    <string name="Lema">Del bildene dine anonymt, i en begrenset periode og med maksimal sikkerhet. Vi etterlater ingen spor her, del bare det du vil, når du vil, uten bekymringer.</string>
+    <string name="Code">Skriv inn kode</string>
+    <string name="Visualize">Vis</string>
+    <string name="Update_image">Last opp bilde</string>
+    <string name="Select_image_text">Last opp bildene dine og sett en tidsbegrensning. Når tiden er ute, blir de automatisk slettet på en sikker måte.</string>
+    <string name="Select_image">Velg</string>
+    <string name="Terms_and_privacy_policy">Ved å bruke appen godtar du vilkårene og personvernreglene.</string>
+    <string name="Terms">Vilkår</string>
+    <string name="Privacy">Personvernregler</string>
+    <string name="Select_image_crop">Velg bilde</string>
+    <string name="Select_other_image_crop">Velg et annet bilde</string>
+    <string name="Crop_and_update_image">Beskjær og last opp</string>
+    <string name="Update_image_crop">Last opp</string>
+    <string name="Delete_image_time">Slettes om</string>
+    <string name="Corrupted_image">Skadet bilde</string>
+    <string name="Corrupted_image_text">Bildet er skadet og kan ikke vises. Prøv å laste opp et annet bilde eller sjekk om bildet er skadet.</string>
+    <string name="Crop_image">Beskjær bilde</string>
+    <string name="Invalid_format">Ugyldig format</string>
+    <string name="Invalid_format_text">Bildefilen har et ugyldig format. Pass på at du laster opp en fil i et av de støttede formatene (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) og prøv igjen.</string>
+    <string name="Ups">Oi! Noe gikk galt</string>
+    <string name="Ups_text_update_image">En uventet feil oppstod under opplasting av bildet ditt. Sjekk internettforbindelsen din og prøv igjen.</string>
+    <string name="Delete_image_time_text">Slettes om 10 minutter.</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Kopier kode</string>
+    <string name="Copied_code">Kode kopiert!</string>
+    <string name="Ups_text">Det oppstod en uventet feil. Vi beklager bryet. Hvis problemet vedvarer, vennligst rapporter feilen, så vi kan fikse det så raskt som mulig. Takk for forståelsen!</string>
+    <string name="Send_info">Send informasjon</string>
+    <string name="Report">Rapporter</string>
+    <string name="Language">Språk</string>
+    <string name="Cancel">Avbryt</string>
+    <string name="Ups_splash">Det ser ut til at du ikke har internettforbindelse. Sjekk nettverket ditt og prøv igjen.</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">it</string>
+    <string name="Device_language">Predefinito di sistema</string>
+    <string name="Lema">Condividi le tue immagini in modo anonimo, per un tempo limitato e con la massima sicurezza. Qui non lasciamo tracce, condividi solo ciò che desideri, quando desideri, senza preoccupazioni.</string>
+    <string name="Code">Inserire codice</string>
+    <string name="Visualize">Visualizza</string>
+    <string name="Update_image">Carica immagine</string>
+    <string name="Select_image_text">Carica le tue immagini e imposta un limite di tempo. Una volta scaduto il termine, saranno eliminate automaticamente in modo sicuro.</string>
+    <string name="Select_image">Seleziona</string>
+    <string name="Terms_and_privacy_policy">Utilizzando l'app, accetti i Termini e la Politica sulla Privacy.</string>
+    <string name="Terms">Termini</string>
+    <string name="Privacy">Politica sulla Privacy</string>
+    <string name="Select_image_crop">Seleziona immagine</string>
+    <string name="Select_other_image_crop">Seleziona un'altra immagine</string>
+    <string name="Crop_and_update_image">Ritaglia e carica</string>
+    <string name="Update_image_crop">Carica</string>
+    <string name="Delete_image_time">Elimina tra</string>
+    <string name="Corrupted_image">Immagine corrotta</string>
+    <string name="Corrupted_image_text">L'immagine è corrotta e non può essere visualizzata. Prova a caricare un'immagine diversa o verifica che l'immagine non sia danneggiata.</string>
+    <string name="Crop_image">Ritaglia immagine</string>
+    <string name="Invalid_format">Formato non valido</string>
+    <string name="Invalid_format_text">Il formato dell'immagine non è valido. Assicurati di caricare un file in uno dei formati supportati (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) e riprova.</string>
+    <string name="Ups">Ops! Qualcosa è andato storto</string>
+    <string name="Ups_text_update_image">Si è verificato un errore imprevisto durante il caricamento della tua immagine. Controlla la connessione a Internet e riprova.</string>
+    <string name="Delete_image_time_text">Elimina tra 10 min.</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Copia codice</string>
+    <string name="Copied_code">Codice copiato!</string>
+    <string name="Ups_text">Sembra che si sia verificato un errore imprevisto. Ci scusiamo per l'inconveniente. Se il problema persiste, segnala l'errore in modo che possiamo risolverlo il prima possibile. Grazie per la comprensione!</string>
+    <string name="Send_info">Invia info.</string>
+    <string name="Report">Segnala</string>
+    <string name="Language">Lingua</string>
+    <string name="Cancel">Annulla</string>
+    <string name="Ups_splash">Sembra che tu non sia connesso a Internet. Controlla la rete e riprova.</string>
+</resources>

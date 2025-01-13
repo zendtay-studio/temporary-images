@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">th</string>
+    <string name="Device_language">ภาษาระบบเริ่มต้น</string>
+    <string name="Lema">แชร์ภาพของคุณอย่างไม่ระบุตัวตน ภายในระยะเวลาจำกัด และด้วยความปลอดภัยสูงสุด ที่นี่ไม่มีรอยรั่ว คุณแชร์แค่สิ่งที่ต้องการ เมื่อไหร่ก็ได้ โดยไม่ต้องกังวล</string>
+    <string name="Code">ใส่รหัส</string>
+    <string name="Visualize">ดูภาพ</string>
+    <string name="Update_image">อัปโหลดภาพ</string>
+    <string name="Select_image_text">อัปโหลดภาพของคุณและตั้งเวลาจำกัด หลังจากเวลาหมดภาพจะถูกลบออกโดยอัตโนมัติอย่างปลอดภัย</string>
+    <string name="Select_image">เลือกภาพ</string>
+    <string name="Terms_and_privacy_policy">การใช้แอปพลิเคชันนี้แสดงว่าคุณยอมรับข้อกำหนดและนโยบายความเป็นส่วนตัว</string>
+    <string name="Terms">ข้อกำหนด</string>
+    <string name="Privacy">นโยบายความเป็นส่วนตัว</string>
+    <string name="Select_image_crop">เลือกภาพ</string>
+    <string name="Select_other_image_crop">เลือกภาพอื่น</string>
+    <string name="Crop_and_update_image">ตัดและอัปโหลด</string>
+    <string name="Update_image_crop">อัปโหลด</string>
+    <string name="Delete_image_time">ลบหลังจาก</string>
+    <string name="Corrupted_image">ภาพเสีย</string>
+    <string name="Corrupted_image_text">ภาพเสียและไม่สามารถแสดงได้ กรุณาลองอัปโหลดภาพอื่นหรือตรวจสอบภาพเพื่อให้แน่ใจว่าไม่ได้เสียหาย</string>
+    <string name="Crop_image">ตัดภาพ</string>
+    <string name="Invalid_format">รูปแบบไม่ถูกต้อง</string>
+    <string name="Invalid_format_text">รูปแบบของภาพไม่ถูกต้อง กรุณาตรวจสอบให้แน่ใจว่าได้อัปโหลดไฟล์ในรูปแบบที่รองรับ (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) และลองใหม่อีกครั้ง</string>
+    <string name="Ups">โอ๊ะ! เกิดข้อผิดพลาด</string>
+    <string name="Ups_text_update_image">เกิดข้อผิดพลาดที่ไม่คาดคิดในการพยายามอัปโหลดภาพของคุณ กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณและลองใหม่อีกครั้ง</string>
+    <string name="Delete_image_time_text">ลบหลังจาก 10 นาที</string>
+    <string name="Okey">ตกลง</string>
+    <string name="Copy_code">คัดลอกรหัส</string>
+    <string name="Copied_code">คัดลอกรหัสแล้ว!</string>
+    <string name="Ups_text">ดูเหมือนว่าจะเกิดข้อผิดพลาดที่ไม่คาดคิด เราขออภัยในความไม่สะดวก หากปัญหายังคงอยู่ กรุณารายงานข้อผิดพลาดเพื่อที่เราจะได้แก้ไขโดยเร็วที่สุด ขอบคุณสำหรับความเข้าใจ!</string>
+    <string name="Send_info">ส่งข้อมูล</string>
+    <string name="Report">รายงาน</string>
+    <string name="Language">ภาษา</string>
+    <string name="Cancel">ยกเลิก</string>
+    <string name="Ups_splash">ดูเหมือนว่าคุณจะไม่มีการเชื่อมต่ออินเทอร์เน็ต กรุณาตรวจสอบการตั้งค่าเครือข่ายและลองใหม่อีกครั้ง</string>
+</resources>

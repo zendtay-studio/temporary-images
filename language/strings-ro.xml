@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">ro</string>
+    <string name="Device_language">Limba implicită a sistemului</string>
+    <string name="Lema">Partajează imaginile tale anonim, pentru o perioadă limitată și cu cea mai mare siguranță. Aici nu lăsăm urme, împarți doar ce vrei, când vrei, fără griji.</string>
+    <string name="Code">Introdu codul</string>
+    <string name="Visualize">Vizualizează</string>
+    <string name="Update_image">Încarcă imagine</string>
+    <string name="Select_image_text">Încarcă imaginile tale și stabilește un timp limită. După ce se atinge termenul, vor fi șterse automat în siguranță.</string>
+    <string name="Select_image">Selectează imaginea</string>
+    <string name="Terms_and_privacy_policy">Prin utilizarea aplicației, accepți Termenii și Politica de confidențialitate.</string>
+    <string name="Terms">Termeni</string>
+    <string name="Privacy">Politica de confidențialitate</string>
+    <string name="Select_image_crop">Selectează imaginea</string>
+    <string name="Select_other_image_crop">Selectează altă imagine</string>
+    <string name="Crop_and_update_image">Decupează și încarcă</string>
+    <string name="Update_image_crop">Încarcă</string>
+    <string name="Delete_image_time">Șterge în</string>
+    <string name="Corrupted_image">Imagine coruptă</string>
+    <string name="Corrupted_image_text">Imaginea este coruptă și nu poate fi afișată. Te rugăm să încerci să încarci o altă imagine sau să verifici imaginea pentru a te asigura că nu este deteriorată.</string>
+    <string name="Crop_image">Decupează imaginea</string>
+    <string name="Invalid_format">Format invalid</string>
+    <string name="Invalid_format_text">Formatul imaginii este invalid. Te rugăm să te asiguri că ai încărcat un fișier într-unul dintre formatele acceptate (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) și încearcă din nou.</string>
+    <string name="Ups">Ups! Ceva nu a mers bine</string>
+    <string name="Ups_text_update_image">A apărut o eroare neașteptată la încercarea de a încărca imaginea ta. Te rugăm să verifici conexiunea la internet și să încerci din nou.</string>
+    <string name="Delete_image_time_text">Șterge în 10 minute</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Copiază codul</string>
+    <string name="Copied_code">Cod copiat!</string>
+    <string name="Ups_text">Se pare că a apărut o eroare neașteptată. Ne cerem scuze pentru inconvenient. Dacă problema persistă, te rugăm să raportezi eroarea pentru a o rezolva cât mai repede posibil. Mulțumim pentru înțelegere!</string>
+    <string name="Send_info">Trimite informații</string>
+    <string name="Report">Raportează</string>
+    <string name="Language">Limba</string>
+    <string name="Cancel">Anulează</string>
+    <string name="Ups_splash">Se pare că nu ai conexiune la internet. Te rugăm să verifici rețeaua ta și să încerci din nou.</string>
+</resources>

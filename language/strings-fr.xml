@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">fr</string>
+    <string name="Device_language">Par défaut du système</string>
+    <string name="Lema">Partagez vos images anonymement, pour une durée limitée, avec une sécurité maximale. Nous ne laissons aucune trace ici ; vous partagez seulement ce que vous voulez, quand vous voulez, sans soucis.</string>
+    <string name="Code">Insérer le code</string>
+    <string name="Visualize">Visualiser</string>
+    <string name="Update_image">Télécharger l'image</string>
+    <string name="Select_image_text">Téléchargez vos images et définissez une limite de temps. Une fois ce délai écoulé, elles seront automatiquement supprimées en toute sécurité.</string>
+    <string name="Select_image">Sélectionner</string>
+    <string name="Terms_and_privacy_policy">En utilisant l'application, vous acceptez les Conditions générales et la Politique de confidentialité.</string>
+    <string name="Terms">Conditions générales</string>
+    <string name="Privacy">Politique de confidentialité</string>
+    <string name="Select_image_crop">Sélectionner une image</string>
+    <string name="Select_other_image_crop">Sélectionner une autre image</string>
+    <string name="Crop_and_update_image">Rogner et télécharger</string>
+    <string name="Update_image_crop">Télécharger</string>
+    <string name="Delete_image_time">Supprimer dans</string>
+    <string name="Corrupted_image">Image corrompue</string>
+    <string name="Corrupted_image_text">L'image est corrompue et ne peut pas être affichée. Veuillez essayer de télécharger une autre image ou vérifier l'image pour vous assurer qu'elle n'est pas endommagée.</string>
+    <string name="Crop_image">Rogner l'image</string>
+    <string name="Invalid_format">Format invalide</string>
+    <string name="Invalid_format_text">Le format de l'image est invalide. Veuillez vous assurer de télécharger un fichier dans l'un des formats pris en charge (JPG, PNG, BMP, GIF, TIFF, WEBP et HEIC), puis réessayez.</string>
+    <string name="Ups">Oups ! Une erreur est survenue</string>
+    <string name="Ups_text_update_image">Une erreur inattendue s'est produite lors de la tentative de téléchargement de votre image. Veuillez vérifier votre connexion Internet et réessayer.</string>
+    <string name="Delete_image_time_text">Supprimer dans 10 min.</string>
+    <string name="Okey">D'accord</string>
+    <string name="Copy_code">Copier le code</string>
+    <string name="Copied_code">Code copié !</string>
+    <string name="Ups_text">Il semble qu'une erreur inattendue s'est produite. Nous nous excusons pour la gêne occasionnée. Si le problème persiste, veuillez signaler l'erreur afin que nous puissions la résoudre dès que possible. Merci pour votre compréhension !</string>
+    <string name="Send_info">Envoyer des infos</string>
+    <string name="Report">Signaler</string>
+    <string name="Language">Langue</string>
+    <string name="Cancel">Annuler</string>
+    <string name="Ups_splash">Il semble que vous n'êtes pas connecté à Internet. Vérifiez votre réseau et réessayez.</string>
+</resources>

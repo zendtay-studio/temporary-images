@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="LanguageStyles">ru</string>
-    <string name="Device_language">По умолчанию в системе</string>
-    <string name="Lema">Делитесь изображениями анонимно, на ограниченное время, с максимальной безопасностью. Здесь мы не оставляем следов, вы делитесь чем хотите, когда хотите, без забот.</string>
+    <string name="Device_language">Системный по умолчанию</string>
+    <string name="Lema">Делитесь своими изображениями анонимно, на ограниченное время и с максимальной безопасностью. Мы не оставляем следов: делитесь только тем, чем хотите, и тогда, когда хотите, без каких-либо забот.</string>
     <string name="Code">Вставить код</string>
-    <string name="Visualize">Просмотр</string>
+    <string name="Visualize">Просмотреть</string>
     <string name="Update_image">Загрузить изображение</string>
-    <string name="Select_image_text">Загрузите свои изображения и установите временное ограничение. По истечении срока они будут автоматически удалены безопасным способом.</string>
+    <string name="Select_image_text">Загрузите свои изображения и установите временное ограничение. По истечении срока они будут автоматически удалены.</string>
     <string name="Select_image">Выбрать</string>
-    <string name="Terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с Условиями и Политикой конфиденциальности.</string>
-    <string name="Terms">Условия</string>
+    <string name="Terms_and_privacy_policy">Используя приложение, вы соглашаетесь с Условиями использования и Политикой конфиденциальности.</string>
+    <string name="Terms">Условия использования</string>
     <string name="Privacy">Политика конфиденциальности</string>
     <string name="Select_image_crop">Выбрать изображение</string>
     <string name="Select_other_image_crop">Выбрать другое изображение</string>
@@ -17,18 +16,20 @@
     <string name="Update_image_crop">Загрузить</string>
     <string name="Delete_image_time">Удалить через</string>
     <string name="Corrupted_image">Поврежденное изображение</string>
-    <string name="Corrupted_image_text">Изображение повреждено и не может быть отображено. Пожалуйста, попробуйте загрузить другое изображение или проверьте его на повреждения.</string>
+    <string name="Corrupted_image_text">Изображение повреждено и не может быть отображено. Попробуйте загрузить другое изображение или проверьте, чтобы убедиться, что оно не повреждено.</string>
     <string name="Crop_image">Обрезать изображение</string>
-    <string name="Invalid_format_text">Неверный формат изображения. Пожалуйста, убедитесь, что вы загрузили файл в одном из поддерживаемых форматов (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) и попробуйте снова.</string>
+    <string name="Invalid_format">Недопустимый формат</string>
+    <string name="Invalid_format_text">Формат изображения недопустим. Убедитесь, что вы загружаете файл в одном из поддерживаемых форматов (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC), и повторите попытку.</string>
     <string name="Ups">Упс! Что-то пошло не так</string>
-    <string name="Ups_text_update_image">Произошла непредвиденная ошибка при попытке загрузить изображение. Пожалуйста, проверьте подключение к интернету и попробуйте снова.</string>
+    <string name="Ups_text_update_image">Произошла непредвиденная ошибка при загрузке изображения. Проверьте подключение к интернету и повторите попытку.</string>
     <string name="Delete_image_time_text">Удалить через 10 мин.</string>
-    <string name="Okey">Ок</string>
-    <string name="Copy_code">Копировать код</string>
+    <string name="Okey">Окей</string>
+    <string name="Copy_code">Скопировать код</string>
     <string name="Copied_code">Код скопирован!</string>
-    <string name="Ups_text">Похоже, произошла непредвиденная ошибка. Извините за неудобства. Если проблема повторяется, пожалуйста, сообщите об ошибке, чтобы мы могли решить ее как можно скорее. Спасибо за понимание!</string>
+    <string name="Ups_text">Произошла непредвиденная ошибка. Приносим извинения за доставленные неудобства. Если проблема сохраняется, сообщите об ошибке, чтобы мы могли ее исправить как можно скорее. Спасибо за понимание!</string>
     <string name="Send_info">Отправить информацию</string>
     <string name="Report">Сообщить</string>
     <string name="Language">Язык</string>
     <string name="Cancel">Отмена</string>
+    <string name="Ups_splash">Похоже, у вас нет подключения к интернету. Проверьте сеть и попробуйте снова.</string>
 </resources>

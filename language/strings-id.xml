@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">id</string>
+    <string name="Device_language">Bahasa sistem default</string>
+    <string name="Lema">Bagikan gambar Anda secara anonim, untuk waktu terbatas, dengan keamanan maksimal. Di sini tidak ada jejak, Anda hanya membagikan apa yang Anda inginkan, kapan pun Anda inginkan, tanpa khawatir.</string>
+    <string name="Code">Masukkan kode</string>
+    <string name="Visualize">Lihat</string>
+    <string name="Update_image">Unggah gambar</string>
+    <string name="Select_image_text">Unggah gambar Anda dan tentukan batas waktu. Setelah batas waktu tercapai, gambar akan dihapus secara otomatis dengan aman.</string>
+    <string name="Select_image">Pilih gambar</string>
+    <string name="Terms_and_privacy_policy">Dengan menggunakan aplikasi ini, Anda setuju dengan Syarat dan Kebijakan Privasi.</string>
+    <string name="Terms">Syarat</string>
+    <string name="Privacy">Kebijakan Privasi</string>
+    <string name="Select_image_crop">Pilih gambar</string>
+    <string name="Select_other_image_crop">Pilih gambar lain</string>
+    <string name="Crop_and_update_image">Potong dan unggah</string>
+    <string name="Update_image_crop">Unggah</string>
+    <string name="Delete_image_time">Hapus dalam</string>
+    <string name="Corrupted_image">Gambar rusak</string>
+    <string name="Corrupted_image_text">Gambar rusak dan tidak dapat ditampilkan. Silakan coba unggah gambar lain atau periksa gambar untuk memastikan tidak rusak.</string>
+    <string name="Crop_image">Potong gambar</string>
+    <string name="Invalid_format">Format tidak valid</string>
+    <string name="Invalid_format_text">Format gambar tidak valid. Pastikan Anda mengunggah file dalam salah satu format yang didukung (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) dan coba lagi.</string>
+    <string name="Ups">Ups! Terjadi kesalahan</string>
+    <string name="Ups_text_update_image">Terjadi kesalahan tak terduga saat mencoba mengunggah gambar Anda. Pastikan koneksi internet Anda berfungsi dan coba lagi.</string>
+    <string name="Delete_image_time_text">Hapus dalam 10 menit</string>
+    <string name="Okey">Oke</string>
+    <string name="Copy_code">Salin kode</string>
+    <string name="Copied_code">Kode disalin!</string>
+    <string name="Ups_text">Sepertinya terjadi kesalahan tak terduga. Kami mohon maaf atas ketidaknyamanannya. Jika masalah berlanjut, harap laporkan kesalahan tersebut agar kami dapat memperbaikinya sesegera mungkin. Terima kasih atas pengertiannya!</string>
+    <string name="Send_info">Kirim info</string>
+    <string name="Report">Laporkan</string>
+    <string name="Language">Bahasa</string>
+    <string name="Cancel">Batal</string>
+    <string name="Ups_splash">Sepertinya Anda tidak memiliki koneksi internet. Periksa jaringan Anda dan coba lagi.</string>
+</resources>

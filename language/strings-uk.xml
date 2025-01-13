@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">uk</string>
+    <string name="Device_language">Мова за замовчуванням системи</string>
+    <string name="Lema">Діліться своїми зображеннями анонімно, на обмежений час, з максимальною безпекою. Тут не залишаються сліди, ви ділитесь тільки тим, що хочете, коли хочете, без турбот.</string>
+    <string name="Code">Введіть код</string>
+    <string name="Visualize">Переглянути</string>
+    <string name="Update_image">Завантажити зображення</string>
+    <string name="Select_image_text">Завантажте свої зображення і вкажіть час. Після закінчення цього часу зображення буде автоматично видалено безпечно.</string>
+    <string name="Select_image">Виберіть зображення</string>
+    <string name="Terms_and_privacy_policy">Використовуючи цей додаток, ви погоджуєтесь з нашими умовами та політикою конфіденційності.</string>
+    <string name="Terms">Умови</string>
+    <string name="Privacy">Політика конфіденційності</string>
+    <string name="Select_image_crop">Виберіть зображення</string>
+    <string name="Select_other_image_crop">Виберіть інше зображення</string>
+    <string name="Crop_and_update_image">Обрізати і завантажити</string>
+    <string name="Update_image_crop">Завантажити</string>
+    <string name="Delete_image_time">Видалити через</string>
+    <string name="Corrupted_image">Пошкоджене зображення</string>
+    <string name="Corrupted_image_text">Зображення пошкоджене і не може бути відображено. Спробуйте завантажити інше зображення або перевірте це на наявність пошкоджень.</string>
+    <string name="Crop_image">Обрізати зображення</string>
+    <string name="Invalid_format">Невірний формат</string>
+    <string name="Invalid_format_text">Формат зображення невірний. Переконайтеся, що ви завантажили файл у підтримуваному форматі (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) і спробуйте ще раз.</string>
+    <string name="Ups">Ой! Сталася помилка</string>
+    <string name="Ups_text_update_image">Сталася непередбачена помилка під час спроби завантажити ваше зображення. Перевірте підключення до Інтернету і спробуйте ще раз.</string>
+    <string name="Delete_image_time_text">Видалити через 10 хвилин</string>
+    <string name="Okey">Ок</string>
+    <string name="Copy_code">Копіювати код</string>
+    <string name="Copied_code">Код скопійовано!</string>
+    <string name="Ups_text">Схоже, сталася непередбачена помилка. Ми перепрошуємо за незручності. Якщо проблема триває, будь ласка, повідомте про помилку, щоб ми могли вирішити її якнайшвидше. Дякуємо за розуміння!</string>
+    <string name="Send_info">Надіслати інформацію</string>
+    <string name="Report">Повідомити</string>
+    <string name="Language">Мова</string>
+    <string name="Cancel">Скасувати</string>
+    <string name="Ups_splash">Схоже, ви не підключені до Інтернету. Перевірте мережу і спробуйте ще раз.</string>
+</resources>

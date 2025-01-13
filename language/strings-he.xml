@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">he</string>
+    <string name="Device_language">שפת מערכת ברירת המחדל</string>
+    <string name="Lema">שתף את התמונות שלך באופן אנונימי, לזמן מוגבל, עם האבטחה הגבוהה ביותר. כאן אין עקבות, אתה משתף רק מה שאתה רוצה, מתי שאתה רוצה, בלי דאגות.</string>
+    <string name="Code">הכנס קוד</string>
+    <string name="Visualize">הצג</string>
+    <string name="Update_image">העלאת תמונה</string>
+    <string name="Select_image_text">העלא את התמונות שלך וקבע זמן מוגבל. לאחר סיום הזמן, הן יימחקו אוטומטית בצורה בטוחה.</string>
+    <string name="Select_image">בחר תמונה</string>
+    <string name="Terms_and_privacy_policy">בשימוש באפליקציה, אתה מסכים לתנאים ולמדיניות הפרטיות.</string>
+    <string name="Terms">תנאים</string>
+    <string name="Privacy">מדיניות פרטיות</string>
+    <string name="Select_image_crop">בחר תמונה</string>
+    <string name="Select_other_image_crop">בחר תמונה אחרת</string>
+    <string name="Crop_and_update_image">גזור והעלה</string>
+    <string name="Update_image_crop">העלה</string>
+    <string name="Delete_image_time">מחק בתוך</string>
+    <string name="Corrupted_image">תמונה פגומה</string>
+    <string name="Corrupted_image_text">התמונה פגומה ולא ניתן להציג אותה. אנא נסה להעלות תמונה אחרת או בדוק את התמונה כדי לוודא שהיא לא פגומה.</string>
+    <string name="Crop_image">גזור תמונה</string>
+    <string name="Invalid_format">פורמט לא תקין</string>
+    <string name="Invalid_format_text">הפורמט של התמונה לא תקין. אנא ודא שהעלית קובץ בפורמט נתמך (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) ונסה שוב.</string>
+    <string name="Ups">אופס! משהו השתבש</string>
+    <string name="Ups_text_update_image">אירעה שגיאה בלתי צפויה בניסיון להעלות את התמונה שלך. אנא בדוק את חיבור האינטרנט שלך ונסה שוב.</string>
+    <string name="Delete_image_time_text">מחק בתוך 10 דקות</string>
+    <string name="Okey">אוקי</string>
+    <string name="Copy_code">העתק קוד</string>
+    <string name="Copied_code">הקוד הועתק!</string>
+    <string name="Ups_text">נראה שקרתה שגיאה בלתי צפויה. אנו מתנצלים על אי הנוחות. אם הבעיה נמשכת, אנא דיווח על השגיאה כדי שנוכל לתקן אותה בהקדם האפשרי. תודה על ההבנה!</string>
+    <string name="Send_info">שלח מידע</string>
+    <string name="Report">דווח</string>
+    <string name="Language">שפה</string>
+    <string name="Cancel">ביטול</string>
+    <string name="Ups_splash">נראה שאין לך חיבור לאינטרנט. אנא בדוק את רשתך ונסה שוב.</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="LanguageStyles">pl</string>
+    <string name="Device_language">Domyślny systemu</string>
+    <string name="Lema">Udostępniaj swoje zdjęcia anonimowo, na ograniczony czas i z maksymalnym bezpieczeństwem. Nie zostawiamy żadnych śladów, udostępniasz tylko to, co chcesz, kiedy chcesz, bez obaw.</string>
+    <string name="Code">Wstaw kod</string>
+    <string name="Visualize">Zobacz</string>
+    <string name="Update_image">Prześlij zdjęcie</string>
+    <string name="Select_image_text">Prześlij swoje zdjęcia i ustaw limit czasowy. Po upływie czasu zostaną one automatycznie bezpiecznie usunięte.</string>
+    <string name="Select_image">Wybierz</string>
+    <string name="Terms_and_privacy_policy">Korzystając z aplikacji, akceptujesz Warunki korzystania i Politykę prywatności.</string>
+    <string name="Terms">Warunki</string>
+    <string name="Privacy">Polityka prywatności</string>
+    <string name="Select_image_crop">Wybierz zdjęcie</string>
+    <string name="Select_other_image_crop">Wybierz inne zdjęcie</string>
+    <string name="Crop_and_update_image">Przytnij i wyślij</string>
+    <string name="Update_image_crop">Wyślij</string>
+    <string name="Delete_image_time">Usuń za</string>
+    <string name="Corrupted_image">Uszkodzony obraz</string>
+    <string name="Corrupted_image_text">Obraz jest uszkodzony i nie może zostać wyświetlony. Spróbuj załadować inne zdjęcie lub sprawdź, czy nie jest ono uszkodzone.</string>
+    <string name="Crop_image">Przytnij obraz</string>
+    <string name="Invalid_format">Nieprawidłowy format</string>
+    <string name="Invalid_format_text">Format obrazu jest nieprawidłowy. Upewnij się, że przesyłasz plik w jednym z obsługiwanych formatów (JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC) i spróbuj ponownie.</string>
+    <string name="Ups">Ups! Coś poszło nie tak</string>
+    <string name="Ups_text_update_image">Wystąpił nieoczekiwany błąd podczas próby przesyłania zdjęcia. Sprawdź swoje połączenie internetowe i spróbuj ponownie.</string>
+    <string name="Delete_image_time_text">Usuń za 10 minut.</string>
+    <string name="Okey">Ok</string>
+    <string name="Copy_code">Skopiuj kod</string>
+    <string name="Copied_code">Kod skopiowany!</string>
+    <string name="Ups_text">Wydaje się, że wystąpił nieoczekiwany błąd. Przepraszamy za niedogodności. Jeśli problem będzie się powtarzać, zgłoś błąd, abyśmy mogli go naprawić jak najszybciej. Dziękujemy za zrozumienie!</string>
+    <string name="Send_info">Wyślij informacje</string>
+    <string name="Report">Zgłoś</string>
+    <string name="Language">Język</string>
+    <string name="Cancel">Anuluj</string>
+    <string name="Ups_splash">Wygląda na to, że nie masz połączenia z internetem. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie.</string>
+</resources>

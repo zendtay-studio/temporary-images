@@ -19,6 +19,7 @@
     <string name="Corrupted_image">Imagen corrupta</string>
     <string name="Corrupted_image_text">La imagen está corrupta y no se puede mostrar. Por favor, intenta cargar una imagen diferente o revisa la imagen para asegurarte de que no esté dañada.</string>
     <string name="Crop_image">Recortar imagen</string>
+    <string name="Invalid_format">Formato invalido</string>
     <string name="Invalid_format_text">El formato de la imagen es inválido. Por favor, asegúrate de cargar un archivo en uno de los formatos admitidos (JPG, PNG, BMP, GIF, TIFF, WEBP y HEIC) y vuelve a intentarlo.</string>
     <string name="Ups">¡Ups! Algo salió mal</string>
     <string name="Ups_text_update_image">Ha ocurrido un error inesperado al intentar subir tu imagen. Por favor, verifica tu conexión a internet e inténtalo nuevamente.</string>
@@ -31,4 +32,5 @@
     <string name="Report">Reportar</string>
     <string name="Language">Idioma</string>
     <string name="Cancel">Cancelar</string>
+    <string name="Ups_splash">Parece que no tienes conexión a internet. Revisa tu red e inténtalo de nuevo.</string>
 </resources>
